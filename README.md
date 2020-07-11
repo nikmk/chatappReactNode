@@ -12,7 +12,11 @@ It currently use Socket.io as a framework to connect realtime data between users
 
 Currently the data doesnt get stored or there isn't any authentication as such but future iterations in other repositories with other chat apps will surey have them.
 
-Screenshot of joining page on website --- chatvortex.ml
+# Getting Started
+`npm i` - to install the dependencies of the project
+`npm run start` - to start the project
+
+# Screenshot of joining page on website --- chatvortex.ml
 ![screenshot](https://github.com/nikmk/chatappReactNode/blob/master/screenshots/chatvortex.ml_.png)
 
 Chat UI
